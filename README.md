@@ -27,3 +27,4 @@
   yekun xalis gəlirini görə biləcək.
   
   <h1>Deadline:08/10/2019</h1>
+  <i>Uğurlar</i>
